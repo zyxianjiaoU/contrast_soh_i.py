@@ -1,0 +1,209 @@
+D:\anaconda3\envs\bat\python.exe "D:\battery capability\ddpm\contrast_soh_i.py"
+----------training start---------
+--------epoch (1), average training loss: 5.191, l_r=0.004995--------
+---------contrastive accuracy: 0.599 ----------
+--------epoch (2), average training loss: 5.207, l_r=0.004990--------
+---------contrastive accuracy: 0.620 ----------
+--------epoch (3), average training loss: 4.782, l_r=0.004985--------
+---------contrastive accuracy: -1501.081 ----------
+--------epoch (4), average training loss: 4.439, l_r=0.004980--------
+---------contrastive accuracy: 0.634 ----------
+--------epoch (5), average training loss: 4.377, l_r=0.004975--------
+---------contrastive accuracy: 0.672 ----------
+--------epoch (6), average training loss: 4.308, l_r=0.004970--------
+---------contrastive accuracy: 0.585 ----------
+--------epoch (7), average training loss: 4.261, l_r=0.004965--------
+---------contrastive accuracy: 0.310 ----------
+--------epoch (8), average training loss: 4.225, l_r=0.004960--------
+---------contrastive accuracy: 0.634 ----------
+--------epoch (9), average training loss: 4.207, l_r=0.004955--------
+---------contrastive accuracy: 0.468 ----------
+--------epoch (10), average training loss: 4.186, l_r=0.004950--------
+---------contrastive accuracy: 0.251 ----------
+--------epoch (11), average training loss: 4.188, l_r=0.004945--------
+---------contrastive accuracy: -0.177 ----------
+--------epoch (12), average training loss: 4.150, l_r=0.004940--------
+---------contrastive accuracy: 0.149 ----------
+--------epoch (13), average training loss: 4.079, l_r=0.004935--------
+---------contrastive accuracy: 0.253 ----------
+--------epoch (14), average training loss: 4.010, l_r=0.004930--------
+---------contrastive accuracy: 0.256 ----------
+--------epoch (15), average training loss: 3.941, l_r=0.004926--------
+---------contrastive accuracy: 0.417 ----------
+--------epoch (16), average training loss: 3.909, l_r=0.004921--------
+---------contrastive accuracy: 0.472 ----------
+--------epoch (17), average training loss: 3.838, l_r=0.004916--------
+---------contrastive accuracy: 0.348 ----------
+--------epoch (18), average training loss: 3.791, l_r=0.004911--------
+---------contrastive accuracy: 0.281 ----------
+--------epoch (19), average training loss: 3.720, l_r=0.004906--------
+---------contrastive accuracy: 0.504 ----------
+--------epoch (20), average training loss: 3.661, l_r=0.004901--------
+---------contrastive accuracy: 0.081 ----------
+--------epoch (21), average training loss: 3.586, l_r=0.004896--------
+---------contrastive accuracy: 0.322 ----------
+--------epoch (22), average training loss: 3.518, l_r=0.004891--------
+---------contrastive accuracy: 0.141 ----------
+--------epoch (23), average training loss: 3.471, l_r=0.004886--------
+---------contrastive accuracy: 0.333 ----------
+--------epoch (24), average training loss: 3.442, l_r=0.004881--------
+---------contrastive accuracy: 0.638 ----------
+--------epoch (25), average training loss: 3.380, l_r=0.004876--------
+---------contrastive accuracy: 0.611 ----------
+--------epoch (26), average training loss: 3.355, l_r=0.004872--------
+---------contrastive accuracy: 0.582 ----------
+--------epoch (27), average training loss: 3.291, l_r=0.004867--------
+---------contrastive accuracy: 0.614 ----------
+--------epoch (28), average training loss: 3.340, l_r=0.004862--------
+---------contrastive accuracy: 0.514 ----------
+--------epoch (29), average training loss: 3.318, l_r=0.004857--------
+---------contrastive accuracy: 0.480 ----------
+--------epoch (30), average training loss: 3.341, l_r=0.004852--------
+---------contrastive accuracy: 0.558 ----------
+--------epoch (31), average training loss: 3.260, l_r=0.004847--------
+---------contrastive accuracy: 0.076 ----------
+--------epoch (32), average training loss: 3.225, l_r=0.004842--------
+---------contrastive accuracy: 0.629 ----------
+--------epoch (33), average training loss: 3.187, l_r=0.004838--------
+---------contrastive accuracy: 0.625 ----------
+--------epoch (34), average training loss: 3.256, l_r=0.004833--------
+---------contrastive accuracy: 0.681 ----------
+--------epoch (35), average training loss: 3.177, l_r=0.004828--------
+---------contrastive accuracy: 0.711 ----------
+--------epoch (36), average training loss: 3.215, l_r=0.004823--------
+---------contrastive accuracy: 0.749 ----------
+--------epoch (37), average training loss: 3.162, l_r=0.004818--------
+---------contrastive accuracy: 0.482 ----------
+--------epoch (38), average training loss: 3.163, l_r=0.004813--------
+---------contrastive accuracy: 0.406 ----------
+--------epoch (39), average training loss: 3.276, l_r=0.004809--------
+---------contrastive accuracy: 0.538 ----------
+--------epoch (40), average training loss: 3.328, l_r=0.004804--------
+---------contrastive accuracy: 0.773 ----------
+--------epoch (41), average training loss: 3.325, l_r=0.004799--------
+---------contrastive accuracy: 0.740 ----------
+--------epoch (42), average training loss: 3.214, l_r=0.004794--------
+---------contrastive accuracy: 0.721 ----------
+--------epoch (43), average training loss: 3.203, l_r=0.004789--------
+---------contrastive accuracy: 0.695 ----------
+--------epoch (44), average training loss: 3.263, l_r=0.004785--------
+---------contrastive accuracy: 0.758 ----------
+--------epoch (45), average training loss: 3.201, l_r=0.004780--------
+---------contrastive accuracy: 0.536 ----------
+--------epoch (46), average training loss: 3.185, l_r=0.004775--------
+---------contrastive accuracy: 0.746 ----------
+--------epoch (47), average training loss: 3.388, l_r=0.004770--------
+---------contrastive accuracy: 0.738 ----------
+--------epoch (48), average training loss: 3.333, l_r=0.004766--------
+---------contrastive accuracy: 0.600 ----------
+--------epoch (49), average training loss: 3.563, l_r=0.004761--------
+---------contrastive accuracy: 0.742 ----------
+--------epoch (50), average training loss: 3.562, l_r=0.004756--------
+---------contrastive accuracy: 0.695 ----------
+--------epoch (51), average training loss: 3.731, l_r=0.004751--------
+---------contrastive accuracy: 0.735 ----------
+--------epoch (52), average training loss: 3.669, l_r=0.004747--------
+---------contrastive accuracy: 0.705 ----------
+--------epoch (53), average training loss: 3.595, l_r=0.004742--------
+---------contrastive accuracy: 0.784 ----------
+--------epoch (54), average training loss: 3.551, l_r=0.004737--------
+---------contrastive accuracy: 0.730 ----------
+--------epoch (55), average training loss: 3.554, l_r=0.004732--------
+---------contrastive accuracy: 0.708 ----------
+--------epoch (56), average training loss: 3.452, l_r=0.004728--------
+---------contrastive accuracy: 0.724 ----------
+--------epoch (57), average training loss: 3.380, l_r=0.004723--------
+---------contrastive accuracy: 0.710 ----------
+--------epoch (58), average training loss: 3.277, l_r=0.004718--------
+---------contrastive accuracy: 0.678 ----------
+--------epoch (59), average training loss: 3.289, l_r=0.004713--------
+---------contrastive accuracy: 0.752 ----------
+--------epoch (60), average training loss: 3.415, l_r=0.004709--------
+---------contrastive accuracy: 0.697 ----------
+--------epoch (61), average training loss: 3.340, l_r=0.004704--------
+---------contrastive accuracy: 0.707 ----------
+--------epoch (62), average training loss: 3.401, l_r=0.004699--------
+---------contrastive accuracy: 0.755 ----------
+--------epoch (63), average training loss: 3.327, l_r=0.004695--------
+---------contrastive accuracy: 0.648 ----------
+--------epoch (64), average training loss: 3.348, l_r=0.004690--------
+---------contrastive accuracy: 0.779 ----------
+--------epoch (65), average training loss: 3.501, l_r=0.004685--------
+---------contrastive accuracy: 0.699 ----------
+--------epoch (66), average training loss: 3.614, l_r=0.004680--------
+---------contrastive accuracy: 0.746 ----------
+--------epoch (67), average training loss: 3.693, l_r=0.004676--------
+---------contrastive accuracy: 0.739 ----------
+--------epoch (68), average training loss: 3.601, l_r=0.004671--------
+---------contrastive accuracy: 0.723 ----------
+--------epoch (69), average training loss: 3.738, l_r=0.004666--------
+---------contrastive accuracy: 0.772 ----------
+--------epoch (70), average training loss: 3.740, l_r=0.004662--------
+---------contrastive accuracy: 0.768 ----------
+--------epoch (71), average training loss: 3.757, l_r=0.004657--------
+---------contrastive accuracy: 0.754 ----------
+--------epoch (72), average training loss: 3.899, l_r=0.004652--------
+---------contrastive accuracy: 0.776 ----------
+--------epoch (73), average training loss: 3.676, l_r=0.004648--------
+---------contrastive accuracy: 0.725 ----------
+--------epoch (74), average training loss: 3.875, l_r=0.004643--------
+---------contrastive accuracy: 0.793 ----------
+--------epoch (75), average training loss: 3.937, l_r=0.004639--------
+---------contrastive accuracy: 0.703 ----------
+--------epoch (76), average training loss: 3.659, l_r=0.004634--------
+---------contrastive accuracy: 0.754 ----------
+--------epoch (77), average training loss: 3.709, l_r=0.004629--------
+---------contrastive accuracy: 0.732 ----------
+--------epoch (78), average training loss: 3.617, l_r=0.004625--------
+---------contrastive accuracy: 0.745 ----------
+--------epoch (79), average training loss: 3.627, l_r=0.004620--------
+---------contrastive accuracy: 0.777 ----------
+--------epoch (80), average training loss: 3.603, l_r=0.004615--------
+---------contrastive accuracy: 0.772 ----------
+--------epoch (81), average training loss: 3.597, l_r=0.004611--------
+---------contrastive accuracy: 0.744 ----------
+--------epoch (82), average training loss: 3.517, l_r=0.004606--------
+---------contrastive accuracy: 0.735 ----------
+--------epoch (83), average training loss: 3.740, l_r=0.004602--------
+---------contrastive accuracy: 0.720 ----------
+--------epoch (84), average training loss: 3.722, l_r=0.004597--------
+---------contrastive accuracy: 0.778 ----------
+--------epoch (85), average training loss: 3.621, l_r=0.004592--------
+---------contrastive accuracy: 0.613 ----------
+--------epoch (86), average training loss: 3.592, l_r=0.004588--------
+---------contrastive accuracy: 0.729 ----------
+--------epoch (87), average training loss: 3.731, l_r=0.004583--------
+---------contrastive accuracy: 0.303 ----------
+--------epoch (88), average training loss: 3.639, l_r=0.004579--------
+---------contrastive accuracy: 0.762 ----------
+--------epoch (89), average training loss: 3.773, l_r=0.004574--------
+---------contrastive accuracy: 0.704 ----------
+--------epoch (90), average training loss: 3.801, l_r=0.004569--------
+---------contrastive accuracy: 0.783 ----------
+--------epoch (91), average training loss: 3.706, l_r=0.004565--------
+---------contrastive accuracy: 0.748 ----------
+--------epoch (92), average training loss: 3.771, l_r=0.004560--------
+---------contrastive accuracy: 0.758 ----------
+--------epoch (93), average training loss: 3.856, l_r=0.004556--------
+---------contrastive accuracy: 0.735 ----------
+--------epoch (94), average training loss: 4.095, l_r=0.004551--------
+---------contrastive accuracy: 0.724 ----------
+--------epoch (95), average training loss: 3.817, l_r=0.004547--------
+---------contrastive accuracy: 0.750 ----------
+--------epoch (96), average training loss: 3.787, l_r=0.004542--------
+---------contrastive accuracy: 0.791 ----------
+--------epoch (97), average training loss: 3.751, l_r=0.004538--------
+---------contrastive accuracy: 0.681 ----------
+--------epoch (98), average training loss: 3.665, l_r=0.004533--------
+---------contrastive accuracy: 0.791 ----------
+--------epoch (99), average training loss: 3.901, l_r=0.004528--------
+---------contrastive accuracy: 0.677 ----------
+--------epoch (100), average training loss: 3.790, l_r=0.004524--------
+---------contrastive accuracy: 0.858 ----------
+-----stop training----------
+--------epoch (100), average training loss: 3.790, l_r=0.004524--------
+---------supervised accuracy: 2.000 ----------
+---------contrastive accuracy: 0.858 ----------
+model saved!}
+
+进程已结束，退出代码为 0
